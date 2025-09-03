@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #f9fdf9;
+}
+button {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+button:active {
+  transform: scale(0.95);
+}
